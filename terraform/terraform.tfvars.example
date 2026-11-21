@@ -1,0 +1,4 @@
+project_id        = "YOUR_GCP_PROJECT_ID"
+region            = "northamerica-northeast1"
+github_repository = "YOUR_GITHUB_USER/gcp-agent-security-fixes"
+enable_org_policies = false

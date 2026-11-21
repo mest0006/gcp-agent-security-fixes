@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!terraform.tfvars.example
+crash.log
+.terraform.lock.hcl
+*.pem
+*.key
+credentials*.json
+kubeconfig*
+.DS_Store
